@@ -4,6 +4,7 @@
 * Tested Machine Learning Algorithm : <b>__________</b><br>
 * Best Fit Machine Learning Algorithm : <b>__________</b><br>
 * Dataset Link : ___________________ <br>
+* Web Application Framework : Flask <br>
 * Target : <b>_______</b>
 * Feature List:
   1. ______
