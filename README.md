@@ -1,4 +1,4 @@
-# 🐋 Machine Learning Project: House Price Predictor 🐋
+# Machine Learning Project: House Price Predictor 🐋
 ## This repository House Price Predictor Model project based upon Machine Learning. <br>
 ### Project Details <br>
 * Tested Machine Learning Algorithm : <b>__________</b><br>
