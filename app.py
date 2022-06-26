@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/', methods = ['GET','POST'])
 def hello_world():
-    return 'Hello, World!'
+    return 'This app has been deployed on the cloud.'
 
 
 if __name__ == "__main__":
