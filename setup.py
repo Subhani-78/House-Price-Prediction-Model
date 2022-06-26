@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 from typing import List
 
 # Project Setup Variables
@@ -21,7 +21,7 @@ setup(
    version = PROJECT_VERSION,
    author = AUTHOR,
    description=DESCRIPTION,
-   packages=["housing"],
+   packages=find_packages(),
    install_requires = get_requirements_list(),
 )
 
