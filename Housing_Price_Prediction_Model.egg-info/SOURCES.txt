@@ -1,0 +1,8 @@
+README.md
+setup.py
+Housing_Price_Prediction_Model.egg-info/PKG-INFO
+Housing_Price_Prediction_Model.egg-info/SOURCES.txt
+Housing_Price_Prediction_Model.egg-info/dependency_links.txt
+Housing_Price_Prediction_Model.egg-info/requires.txt
+Housing_Price_Prediction_Model.egg-info/top_level.txt
+housing/__init__.py
