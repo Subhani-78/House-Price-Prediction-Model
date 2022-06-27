@@ -1,3 +1,6 @@
 # Virtual Enviroment File
 vnev/
+#egg.info file
+.egg-info/
+.egg
 
