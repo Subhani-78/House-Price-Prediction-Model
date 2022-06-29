@@ -1,5 +1,5 @@
 # Virtual Enviroment File
-vnev/
+venv/
 #egg.info file
 .egg-info/
 .egg
